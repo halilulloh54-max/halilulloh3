@@ -1,0 +1,38 @@
+.div1{
+    border: 1px solid aqua;
+    background-color: #311313;
+    width: 500px;
+    height: 80px;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.div2{
+    border: 5px solid #FF0606;
+    background-color: black;
+    width: 1000px;
+    height: 638px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.div3{
+    border: 1px solid aquamarine;
+    background-color: aquamarine;
+width: 896px;
+height: 259px;
+margin: 0 auto;
+padding: 20px;
+box-sizing: border-box;
+}
+.div4{
+    border: 1px solid aquamarine;
+    background-color: aquamarine;
+width: 896px;
+height: 259px;
+margin: 0 auto;
+padding: 20px;
+box-sizing: border-box;
+}
